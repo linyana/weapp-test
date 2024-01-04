@@ -1,0 +1,7 @@
+/* components/tabBar/tabBar.wxss */
+.tabBar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 120rpx;
+}
